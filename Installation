@@ -1,0 +1,15 @@
+Installation Instructions
+
+You must have software such as:
+AUTOCONF, AUTOMAKE or MAKE
+
+Instructions for installing this software you can find on the internet
+ 
+There are two ways to install:
+
+   - clone the repository
+   - git clone https://github.com/Rokamisti/zad2
+   - run ./configure
+   - if there aren't any errors, run "make"
+   - use "sudo make install" in your console
+
